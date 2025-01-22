@@ -7,6 +7,8 @@ public class HelloJava {
 		System.out.println("Hello Word");
 		
 		System.out.println("My Name Is Amol");
+
+		Sytem.out.println("Shyam Is Here");
 	}
 
 }
