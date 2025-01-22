@@ -8,7 +8,9 @@ public class HelloJava {
 		
 		System.out.println("My Name Is Amol");
 
-		Sytem.out.println("Shyam Is Here");
+		System.out.println("Shyam Is Here");
+		
+		System.out.println("Go Now");
 	}
 
 }
